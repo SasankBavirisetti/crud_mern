@@ -1,0 +1,12 @@
+.nav-page
+{
+    box-sizing: border-box;
+     width: 90%;
+     height: 70px;
+     background-color: lightgray;
+     font-size: large;
+     margin: auto;
+     margin-bottom: 30px;
+     text-align: center;
+     padding: 10px;
+}

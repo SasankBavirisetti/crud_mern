@@ -1,0 +1,15 @@
+
+.view-table
+{
+    width: 70%;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+.back-btn
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}

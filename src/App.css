@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,37 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* .app
+{
+  background-color: grey;
+} */
+
+.button
+{
+    height: 50px;
+    width: fit-content;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    outline: none;
+    color: white;
+}
+.button:hover
+{
+  transform: scale(1.02);
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.confirm
+{
+  background-color: blue;
+    border: 1px solid blue;
+}
+.cancel
+{
+  background-color: red;
+  border: 1px solid red;
 }

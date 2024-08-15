@@ -1,0 +1,27 @@
+.navbar
+{
+    height: 70px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 0px 0px 5px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 50px;
+    background-color: lightgray;
+}
+
+.nav-heading
+{
+    font-size: large;
+    font-weight: 700;
+}
+
+
+
+.add-employee
+{
+    background-color: green;
+    border: 1px solid green;
+}
